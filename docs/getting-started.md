@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 Spicetify is a multiplatform command-line tool to customize the official Spotify client.
@@ -27,7 +27,7 @@ iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources
 #### Shell (pre-built binary)
 Spicetify CLI
 ```sh
-curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+curl -fsSL https://raw.sgithubusercontent.com/spicetify/cli/main/install.sh | sh
 ```
 Spicetify Marketplace
 ```sh
